@@ -1,6 +1,5 @@
 Este archivo es una practica 
 
-para aprender de una manera mas grafica 
-y practica
+para aprender de una manera mas grafica
 
-git y sus comandos tambien frontend con HTML y CSS
+git y sus comandos con modificacion al pasado
