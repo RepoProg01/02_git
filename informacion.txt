@@ -3,4 +3,4 @@ Este archivo es una practica
 para aprender de una manera mas grafica 
 y practica
 
-git y sus comandos
+git y sus comandos tambien frontend
