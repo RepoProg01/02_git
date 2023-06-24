@@ -31,3 +31,9 @@ h2{
     padding: 0px 0px 0px 20px;
     color: white;
 }
+.footer{
+    text-align: center;
+    padding: 5px 5px 5px 20px;
+    color: white;
+    background-color: rgb(5, 15, 155);
+}
