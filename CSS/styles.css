@@ -29,3 +29,8 @@ h2{
     padding: 0px;
     color: white;
 }
+.footer{
+    padding: 5px 5px 5px 20px;
+    color: white;
+    background-color: rgb(5, 15, 155);
+}
