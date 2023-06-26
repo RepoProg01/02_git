@@ -37,6 +37,10 @@ h2{
     color: white;
     background-color: rgb(5, 15, 155);
 }
-img{
+.logo{
     height: 80px;
+}
+.presentacion{
+    width: 100%;
+    background-color: rgb(218, 217, 217);
 }
