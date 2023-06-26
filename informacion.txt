@@ -5,3 +5,5 @@ para aprender de una manera mas grafica
 Luis agrego una nueva linea
 
 git y sus comandos con modificacion al pasado
+
+Alex contribuye a este proyecto
