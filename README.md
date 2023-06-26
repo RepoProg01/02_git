@@ -1,5 +1,5 @@
 # PC Service
->El lugar de confianza donde tienes la seguridad que se le dara un servicio profesional a tu equipo de computo o telefonia<
+>El lugar de confianza donde tienes la seguridad que se le dara un servicio profesional a tu equipo de computo o telefonia
 
 Contamos con personal especializado en:
 * hadware
