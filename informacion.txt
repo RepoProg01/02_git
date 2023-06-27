@@ -8,6 +8,8 @@ git y sus comandos con modificacion al pasado
 
 Experimento 1
 
+Experimento 2
+
 Master 1
 
 Alex contribuye a este proyecto
