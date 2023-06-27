@@ -7,11 +7,3 @@ Luis agrego una nueva linea
 git y sus comandos con modificacion al pasado
 
 Alex contribuye a este proyecto
-
-Experimento 1
-
-Experimento 2
-
-Master 1
-
-Master 2
